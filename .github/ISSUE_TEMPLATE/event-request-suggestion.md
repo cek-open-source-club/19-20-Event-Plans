@@ -3,7 +3,7 @@ name: Event Request/Suggestion
 about: Request your Suggestion and Request for New Event to be Conducted Here
 title: New Event
 labels: New Event
-assignees: ''
+assignees: GokulDas027, samanyuneelson, Athul-CA
 
 ---
 
@@ -15,4 +15,4 @@ assignees: ''
 
 ## IS there anyone in your circle who'd like to attend this event(yes/no)
 
-##Enter your Batch and Year Details
+### Enter your Batch and Year Details
